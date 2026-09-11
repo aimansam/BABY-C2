@@ -1,6 +1,7 @@
 SIMPLE-C2
 
 Install:
+
 pip install -r requirements.txt
 pyarmor gen --pack onefile INVOICE-10_OCTOBER_02025.py
 
