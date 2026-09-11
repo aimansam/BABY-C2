@@ -1,6 +1,8 @@
-SIMPLE-C2
+##SIMPLE-C2
 
-Install:
+![iCON](images/icon.png)
+
+###Installation guide:
 
 '''
 
@@ -12,7 +14,7 @@ move dist\VALORANT.exe ..
 
 '''
 
-Usage:
+###Usage:
 
 '''
 
@@ -24,15 +26,15 @@ Usage:
 
 '''
 
-Benefits:
+###Benefits:
 
 Not flag by Windows Defender yet.
 
-Case Study:
+###Case Study:
 
 Playing around with my friend to evade defender and analyst.
 
-The outcome:
+###The outcome:
 
 PyInstaller not get flag by Defender. But easily get reverse and reveal token.
 
@@ -41,16 +43,16 @@ Pyarmor version is got flag by defender but encrypted so well. Captured in dynam
 nuitka version not get flag by Defender, turn into c and compiled and this is a good sign. (Not analyse yet)
 
 
-Cleanup:
+###Cleanup:
 
 Simply end executable in task manager
 
-Next:
+###Next:
 1. Add persistence
 2. Custom token distribution server
 3. Rotate final hash executable generation
 
-POV:
+###POV:
 
 Connected message
 
