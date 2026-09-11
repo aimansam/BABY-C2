@@ -1,4 +1,4 @@
-## SIMPLE-C2
+# SIMPLE-C2
 
 ![iCON](images/icon.png)
 
