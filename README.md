@@ -44,11 +44,19 @@ POV:
 
 ![Connected message](images/connected.png)
 
+Connected message
+
 ![Check if alive](images/ping.png)
+
+Check if alive
 
 ![Executed command](images/exec.png)
 
+Executed command
+
 ![download file](images/download.png)
+
+download file
 
 ![pwned](images/pwned.png)
 
