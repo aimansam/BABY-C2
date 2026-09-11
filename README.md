@@ -2,19 +2,27 @@ SIMPLE-C2
 
 Install:
 
+'''
+
 pip install -r requirements.txt
 
 python -m nuitka --onefile --windows-console-mode=disable --windows-icon-from-ico=valorant.ico VALORANT.py
 
 move dist\VALORANT.exe ..
 
+'''
+
 Usage:
+
+'''
 
 !exec <COMPUTER_NAME> <command>
 
 !download <COMPUTER_NAME> <file_path>
 
 !pingall
+
+'''
 
 Benefits:
 
@@ -27,7 +35,9 @@ Playing around with my friend to evade defender and analyst.
 The outcome:
 
 PyInstaller not get flag by Defender. But easily get reverse and reveal token.
+
 Pyarmor version is got flag by defender but encrypted so well. Captured in dynamic analysis. Still not good.
+
 nuitka version not get flag by Defender, turn into c and compiled and this is a good sign. (Not analyse yet)
 
 
@@ -62,4 +72,4 @@ Bonus
 
 ![pwned](images/pwned.png)
 
-my fren give me this after recover from dynamic analysis when I compiled using PyArmour
+my fren give me this after recover token from dynamic analysis when I compiled using PyArmour
