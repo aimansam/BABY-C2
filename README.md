@@ -60,4 +60,4 @@ download file
 
 ![pwned](images/pwned.png)
 
-my fren give me this after recover from dynamic analysis when I compiled using PyInstaller
+my fren give me this after recover from dynamic analysis when I compiled using PyArmour
