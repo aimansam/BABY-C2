@@ -1,5 +1,9 @@
 # SIMPLE-C2
 
+## Warning!!! Used for authorised testing and learning only!!
+
+As the name, this is custom c2 using python compiled by nuitka python module.
+
 ![iCON](images/icon.png)
 
 ### Installation guide:
@@ -74,4 +78,4 @@ Bonus
 
 ![pwned](images/pwned.png)
 
-my fren give me this after recover token from dynamic analysis when I compiled using PyArmour
+my fren send me this after recover token from dynamic analysis when I compiled using PyArmour
