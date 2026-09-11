@@ -26,7 +26,7 @@ The outcome:
 
 PyInstaller not get flag by Defender. But easily get reverse and reveal token.
 Pyarmor version is got flag by defender but encrypted so well. Captured in dynamic analysis. Still not good.
-nuitka version not get flag by Defender, compiled and this is a good sign. (Not analyse yet)
+nuitka version not get flag by Defender, turn into c and compiled and this is a good sign. (Not analyse yet)
 
 
 Cleanup:
@@ -39,9 +39,15 @@ Next:
 3. Rotate final hash executable generation
 
 POV:
+
 ![Connected message](images/connected.png)
+
 ![Check if alive](images/ping.png)
+
 ![Executed command](images/exec.png)
+
 ![download file](images/download.png)
+
 ![pwned](images/pwned.png)
+
 my fren give me this after recover from dynamic analysis when I compiled using PyInstaller
