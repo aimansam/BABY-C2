@@ -44,7 +44,9 @@ Playing around with my friend to evade defender and analyst.
 
 - **Pyarmor** version is got flag by defender but encrypted so well. Captured in dynamic analysis. Still not good.
 
-- **nuitka** version not get flag by Defender, turn into c and compiled and this is a good sign. (static analysis failed, dynamic not try yet)
+- **nuitka** version not get flag by Defender, turn into c and compiled and this is a good sign. (static analysis failed, dynamic analysis success recovered token)
+
+The best for now nuitka version
 
 
 ### Cleanup:
@@ -55,6 +57,7 @@ Playing around with my friend to evade defender and analyst.
 1. Add persistence
 2. Custom token distribution server
 3. Rotate final hash executable generation
+4. Include dll hijaking and hollowing.
 
 ### POV:
 
