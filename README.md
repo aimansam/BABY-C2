@@ -1,4 +1,4 @@
-# SIMPLE-C2
+# BABY-C2
 
 ## Warning!!! Used for authorised testing and learning only!!
 
