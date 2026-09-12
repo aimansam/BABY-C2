@@ -44,7 +44,7 @@ Playing around with my friend to evade defender and analyst.
 
 - **Pyarmor** version is got flag by defender but encrypted so well. Captured in dynamic analysis. Still not good.
 
-- **nuitka** version not get flag by Defender, turn into c and compiled and this is a good sign. (Not analyse yet)
+- **nuitka** version not get flag by Defender, turn into c and compiled and this is a good sign. (static analysis failed, dynamic not try yet)
 
 
 ### Cleanup:
