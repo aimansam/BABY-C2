@@ -59,7 +59,7 @@ The best for now nuitka version
 3. Rotate final hash executable generation
 4. Include dll hijaking and hollowing.
 
-### POV:
+### MEET STEVE:
 
 Connected message
 
